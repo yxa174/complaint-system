@@ -1,7 +1,5 @@
 fastapi
 uvicorn
-sqlalchemy
-python-dotenv
 requests
-openai
-pydantic-settings>=2.0.0
+sqlite3
+pydantic
